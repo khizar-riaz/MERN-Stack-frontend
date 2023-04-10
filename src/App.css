@@ -22,6 +22,25 @@
   width: 100%;
   background-color: skyblue;
 }
+.inputBox {
+  display: block;
+  margin: 25px;
+  padding: 7px;
+  width: 300px;
+  border: 1px solid skyblue;
+}
+.register
+{
+  margin-left: 30%;
+}
+.appButton{
+  margin: 25px;
+  padding: 10px;
+  width: 150px;
+  border-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+}
 /* .App {
   text-align: center;
 } */
